@@ -32,7 +32,7 @@ hl.config({
       enabled = true,
       render_power = 8,
       range = 8,
-      color = "rgba(22,22,22,0.5)",
+      color = "rgba(22,22,22, 0.5)",
     },
   },
 })
